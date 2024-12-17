@@ -166,6 +166,7 @@ $App.R9 = localStorage.getItem("R9");
 $App.R10 = localStorage.getItem("R10");
 $App.R11 = localStorage.getItem("R11");
 $scope.GotoPage( "Rulz" );};
+$scope.PushButton57_click = function() {window.document.location.reload();};
 });
 NeoApp.controller("HEADERS_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 2;
