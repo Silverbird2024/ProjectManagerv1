@@ -45,7 +45,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline78 {position:absolute;left:31px;top:53px;width:115px;height:40px;margin:0;color:silver;font-size:15pt;text-align:center;text-shadow:2px 2px 5px black}
 #Headline78:hover {color:green}
 #Headline25 {position:absolute;left:191px;top:36px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
-#Headline28 {position:absolute;left:267px;top:66px;width:57px;height:49px;margin:0;color:white;font-style:italic}
+#Headline28 {position:absolute;left:267px;top:66px;width:104px;height:49px;margin:0;color:white;font-style:italic}
 #HEADERS {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #Headline12 {position:absolute;left:80px;top:116px;width:76px;height:21px;margin:0;color:white;font-size:13pt;font-weight:800}
 #TextInput9 {position:absolute;left:33px;top:182px;width:230px;height:27px;margin:0;color:#383838;font-size:12pt;font-weight:500}
