@@ -231,9 +231,9 @@ neoGSheetsLoadCell($App.mccwa,"h8","A",8,null);
 NeoApp.controller("H1Main_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 4;
 $App.NAB.PageID = "H1Main";
-$scope.TextArea20_change = function() {localStorage.setItem("h1main",$App.h1main);};
 $scope.PushButton1_click = function() {$scope.GotoPage( "Home" );};
 $scope.PushButton8_click = function() {$scope.GotoPage( "HEADER1" );};
+$scope.TextArea20_change = function() {localStorage.setItem("h1main",$App.h2main);};
 });
 NeoApp.controller("HEADER1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 5;
