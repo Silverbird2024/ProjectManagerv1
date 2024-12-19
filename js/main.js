@@ -15,6 +15,14 @@ $App.h9 = localStorage.getItem("h9");
 $App.h10 = localStorage.getItem("h10");
 $App.h11 = localStorage.getItem("h11");
 $App.h12 = localStorage.getItem("h12");
+$App.h1mainHlight1 = localStorage.getItem("h1mainHlight1");
+$App.h1mainHlight2 = localStorage.getItem("h1mainHlight2");
+$App.h1mainHlight3 = localStorage.getItem("h1mainHlight3");
+$App.h1mainHlight4 = localStorage.getItem("h1mainHlight4");
+$App.h1mainHlight5 = localStorage.getItem("h1mainHlight5");
+$App.h1mainHlight6 = localStorage.getItem("h1mainHlight6");
+$App.h1mainHlight7 = localStorage.getItem("h1mainHlight7");
+$App.h1mainHlight8 = localStorage.getItem("h1mainHlight8");
 $App.h1mainCR = localStorage.getItem("h1mainCR");
 $App.h2mainCR = localStorage.getItem("h2mainCR");
 $App.h3mainCR = localStorage.getItem("h3mainCR");
@@ -243,6 +251,7 @@ $scope.PushButton1_click = function() {$scope.GotoPage( "Home" );};
 $scope.PushButton8_click = function() {$scope.GotoPage( "HEADER1" );};
 $scope.TextArea20_change = function() {localStorage.setItem("h1main",$App.h2main);};
 $scope.TextArea49_change = function() {localStorage.setItem("h1mainCR",$App.h1mainCR);};
+$scope.TextArea57_change = function() {localStorage.setItem("h1mainHlight1",$App.h1mainHlight1);};
 });
 NeoApp.controller("HEADER1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 5;
@@ -282,6 +291,7 @@ $scope.TextArea21_change = function() {localStorage.setItem("h2main",$App.h2main
 $scope.PushButton10_click = function() {$scope.GotoPage( "Home" );};
 $scope.PushButton16_click = function() {$scope.GotoPage( "Header2" );};
 $scope.TextArea50_change = function() {localStorage.setItem("h2mainCR",$App.h2mainCR);};
+$scope.TextArea58_change = function() {localStorage.setItem("h2mainHlight1",$App.h2mainHlight1);};
 });
 NeoApp.controller("H2PPb1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 10;
@@ -320,6 +330,7 @@ $App.NAB.PageID = "H3main";
 $scope.TextArea18_change = function() {localStorage.setItem("h3main",$App.h3main);};
 $scope.PushButton23_click = function() {$scope.GotoPage( "Home" );};
 $scope.TextArea51_change = function() {localStorage.setItem("h3mainCR",$App.h3mainCR);};
+$scope.TextArea59_change = function() {localStorage.setItem("h3mainHlight1",$App.h3mainHlight1);};
 });
 NeoApp.controller("xxxxxxxxxxxxxxxx3_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 15;
@@ -331,6 +342,7 @@ $App.NAB.PageID = "H4main";
 $scope.TextArea23_change = function() {localStorage.setItem("h4main",$App.h4main);};
 $scope.PushButton35_click = function() {$scope.GotoPage( "Home" );};
 $scope.TextArea52_change = function() {localStorage.setItem("h4mainCR",$App.h4mainCR);};
+$scope.TextArea60_change = function() {localStorage.setItem("h4mainHlight1",$App.h4mainHlight1);};
 });
 NeoApp.controller("xxxxxxxxxxxxxxxx4_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 17;
@@ -343,6 +355,7 @@ $scope.TextArea22_change = function() {localStorage.setItem("h5main",$App.h5main
 $scope.PushButton28_click = function() {$scope.GotoPage( "Home" );};
 $scope.PushButton34_click = function() {$scope.GotoPage( "HEADER-5" );};
 $scope.TextArea53_change = function() {localStorage.setItem("h5mainCR",$App.h5mainCR);};
+$scope.TextArea61_change = function() {localStorage.setItem("h5mainHlight1",$App.h5mainHlight1);};
 });
 NeoApp.controller("H5P_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 19;
@@ -371,6 +384,7 @@ $scope.TextArea24_change = function() {localStorage.setItem("h6main",$App.h6main
 $scope.PushButton37_click = function() {$scope.GotoPage( "Home" );};
 $scope.PushButton38_click = function() {$scope.GotoPage( "Header6" );};
 $scope.TextArea54_change = function() {localStorage.setItem("h6mainCR",$App.h6mainCR);};
+$scope.TextArea62_change = function() {localStorage.setItem("h6mainHlight1",$App.h6mainHlight1);};
 });
 NeoApp.controller("Header6_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 23;
@@ -397,6 +411,7 @@ $App.NAB.PageID = "H7Main";
 $scope.TextArea25_change = function() {localStorage.setItem("h7main",$App.h7main);};
 $scope.PushButton39_click = function() {$scope.GotoPage( "Home" );};
 $scope.TextArea55_change = function() {localStorage.setItem("h7mainCR",$App.h7mainCR);};
+$scope.TextArea63_change = function() {localStorage.setItem("h7mainHlight1",$App.h7mainHlight1);};
 });
 NeoApp.controller("xxxxxxxxxxxxxxxx7_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 26;
@@ -408,6 +423,7 @@ $App.NAB.PageID = "H8Main";
 $scope.TextArea26_change = function() {localStorage.setItem("h8main",$App.h8main);};
 $scope.PushButton41_click = function() {$scope.GotoPage( "Home" );};
 $scope.TextArea56_change = function() {localStorage.setItem("h8mainCR",$App.h8mainCR);};
+$scope.TextArea64_change = function() {localStorage.setItem("h8mainHlight1",$App.h8mainHlight1);};
 });
 NeoApp.controller("xxxxxxxxxxxxxxxx8_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 28;
