@@ -1034,7 +1034,7 @@ $scope.PushButton105_click = function() {$App.diary1 = localStorage.getItem("291
 $scope.PushButton108_click = function() {$App.diary1 = localStorage.getItem("301224");};
 $scope.PushButton109_click = function() {$App.diary1 = localStorage.getItem("311224");};
 $scope.PushButton110_click = function() {localStorage.setItem("301224",$App.diary1);};
-$scope.PushButton111_click = function() {localStorage.setItem("301224",$App.diary1);};
+$scope.PushButton111_click = function() {localStorage.setItem("311224",$App.diary1);};
 $scope.PushButton106_click = function() {$App.diary1 = localStorage.getItem("010125");};
 $scope.PushButton107_click = function() {localStorage.setItem("010125",$App.diary1);};
 $scope.PushButton103_click = function() {$App.diary1 = localStorage.getItem("020125");};
