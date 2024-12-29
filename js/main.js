@@ -1030,7 +1030,6 @@ $App.NAB.PageNumber = 5;
 $App.NAB.PageID = "Diary1";
 $scope.PushButton17_click = function() {$scope.GotoPage( "Home" );};
 $scope.TextArea130_change = function() {$App.diary1v = $App.diary1;};
-$scope.PushButton105_click = function() {$App.diary1 = localStorage.getItem("29122024");};
 $scope.PushButton108_click = function() {$App.diary1 = localStorage.getItem("301224");};
 $scope.PushButton109_click = function() {$App.diary1 = localStorage.getItem("311224");};
 $scope.PushButton110_click = function() {localStorage.setItem("301224",$App.diary1);};
