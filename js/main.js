@@ -843,7 +843,7 @@ $scope.MoveObject("H6Box","10","376");
 $scope.MoveObject("H7Box","10","314");
 $scope.MoveObject("H8Box","10","246");
 $scope.MoveObject("H9Box","113","181");};
-$scope.H9Box_dblclick = function() {$scope.GotoPage( "H9Main" );};
+$scope.H9Box_dblclick = function() {$scope.GotoPage( "H9main" );};
 $scope.H3Box_click = function() {$App.HOverview = $App.h3main;
 $scope.MoveObject("H4Box","210","247");
 $scope.MoveObject("H5Box","211","314");
