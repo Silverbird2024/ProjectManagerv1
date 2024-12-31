@@ -36,7 +36,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline2 {position:absolute;left:15px;top:567px;width:393px;height:156px;margin:0;color:#FFFACD;font-size:9pt}
 #Headline3 {position:absolute;left:266px;top:115px;width:137px;height:34px;margin:0;color:#FFFF00;font-size:16pt}
 #Headline3:hover {color:red}
-#Headline166 {position:absolute;left:17px;top:105px;width:230px;height:38px;margin:0;color:#00FF00;font-size:12pt}
+#Headline166 {position:absolute;left:21px;top:116px;width:230px;height:23px;margin:0;color:#00FF00;font-size:12pt}
 #Headline166:hover {color:white}
 #PushButton78 {position:absolute;left:7px;top:6px;width:33px;height:33px;margin:0;opacity:0.35}
 #PushButton78:hover {color:yellow}
@@ -46,6 +46,211 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton84:hover {color:yellow}
 #PushButton90 {position:absolute;left:132px;top:6px;width:33px;height:33px;margin:0;opacity:0.35}
 #PushButton90:hover {color:yellow}
+#xxxxxxxxxxxxxxxxxpph {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
+#PhHome {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E;border-color:white}
+#Headline300 {position:absolute;left:10px;top:376px;width:192px;height:54px;margin:0;color:#00FFFF;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline300:hover {color:red}
+#Headline301 {position:absolute;left:211px;top:376px;width:192px;height:54px;margin:0;color:#FEFE33;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline301:hover {color:red}
+#Headline302 {position:absolute;left:210px;top:247px;width:192px;height:54px;margin:0;color:#00FF00;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline302:hover {color:red}
+#Headline304 {position:absolute;left:113px;top:181px;width:192px;height:54px;margin:0;color:#FF0000;font-size:12pt;font-style:italic;font-weight:600;line-height:80%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline304:hover {color:red}
+#Headline305 {position:absolute;left:10px;top:438px;width:192px;height:54px;margin:0;color:#FB9902;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline305:hover {color:red}
+#Headline306 {position:absolute;left:211px;top:438px;width:192px;height:54px;margin:0;color:#F358FF;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline306:hover {color:red}
+#Ellipse9 {position:absolute;left:28px;top:38px;width:124px;height:48px;margin:0;fill:#87CEFA;opacity:1;stroke-width:1px}
+#Ellipse10 {position:absolute;left:32px;top:43px;width:115px;height:38px;margin:0;fill:#707070;opacity:1;stroke-width:1px}
+#Headline307 {position:absolute;left:59px;top:51px;width:64px;height:24px;margin:0;color:silver;font-size:15pt;text-align:center;text-shadow:2px 2px 5px black}
+#Headline307:hover {color:green}
+#Headline308 {position:absolute;left:365px;top:64px;width:38px;height:39px;margin:0;color:#FF0000;font-size:32pt;font-style:italic;font-weight:800;text-shadow:0px 0px 2px silver}
+#Headline308:hover {text-shadow:2px 2px 5px white}
+#PushButton74 {position:absolute;left:378px;top:8px;width:26px;height:16px;margin:0;opacity:0.37}
+#Headline309 {position:absolute;left:112px;top:506px;width:192px;height:54px;margin:0;color:#E0E0E0;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline309:hover {color:red}
+#Headline310 {position:absolute;left:10px;top:246px;width:192px;height:54px;margin:0;color:#F0E68C;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline310:hover {color:red}
+#Headline311 {position:absolute;left:10px;top:314px;width:192px;height:54px;margin:0;color:#D0EA2B;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline311:hover {color:red}
+#Headline312 {position:absolute;left:211px;top:314px;width:192px;height:54px;margin:0;color:#F0FFF0;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
+#Headline312:hover {color:red}
+#Headline313 {position:absolute;left:15px;top:567px;width:393px;height:156px;margin:0;color:#FFFACD;font-size:9pt}
+#Headline314 {position:absolute;left:221px;top:77px;width:137px;height:34px;margin:0;color:#FFFF00;font-size:16pt}
+#PushButton75 {position:absolute;left:351px;top:30px;width:55px;height:31px;margin:0;font-size:9pt;opacity:0.4}
+#Headline318 {position:absolute;left:221px;top:77px;width:137px;height:34px;margin:0;color:#FFFF00;font-size:16pt}
+#Headline319 {position:absolute;left:34px;top:145px;width:350px;height:34px;margin:0;color:#00FF00;font-size:19pt;text-align:center}
+#Ph1Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse15 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse16 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea135 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline391 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline392 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea136 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea137 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline393 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline394 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline395 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline395:hover {color:#7CFC00}
+#Headline396 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea138 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline397 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton105 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton105:hover {color:red}
+#Ph2Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse7 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse8 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea91 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline247 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline248 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea92 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea93 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline249 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline297 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline298 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline298:hover {color:#7CFC00}
+#Headline299 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea134 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline390 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton72 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton72:hover {color:red}
+#Ph3Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse17 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse18 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea139 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline398 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline399 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea140 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea141 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline400 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline401 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline402 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline402:hover {color:#7CFC00}
+#Headline403 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea142 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline404 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton161 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton161:hover {color:red}
+#Ph4Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse19 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse73 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea143 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline405 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline406 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea144 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea145 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline407 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline408 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline409 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline409:hover {color:#7CFC00}
+#Headline410 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea146 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline411 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton163 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton163:hover {color:red}
+#Ph5Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse74 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse75 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea147 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline412 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline413 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea148 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea149 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline414 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline415 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline416 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline416:hover {color:#7CFC00}
+#Headline417 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea150 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline418 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton165 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton165:hover {color:red}
+#Ph6Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse76 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse78 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea151 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline419 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline420 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea152 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea153 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline421 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline422 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline423 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline423:hover {color:#7CFC00}
+#Headline424 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea154 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline425 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton164 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton164:hover {color:red}
+#Ph7Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse79 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse80 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea155 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline426 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline427 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea156 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea157 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline428 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline429 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline430 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline430:hover {color:#7CFC00}
+#Headline431 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea158 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline432 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton162 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton162:hover {color:red}
+#Ph8Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse81 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse82 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea159 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline433 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline434 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea160 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea161 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline435 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline436 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline437 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline437:hover {color:#7CFC00}
+#Headline438 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea162 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline439 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton160 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton160:hover {color:red}
+#Ph9Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse83 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse84 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea163 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline440 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline441 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea164 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea165 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline442 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline443 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline444 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline444:hover {color:#7CFC00}
+#Headline445 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea166 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline446 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#PushButton73 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton73:hover {color:red}
+#Ph10Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Ellipse85 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
+#Ellipse87 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
+#TextArea167 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
+#Headline447 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline448 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#TextArea168 {position:absolute;left:20px;top:362px;width:381px;height:184px;margin:0;opacity:0.5}
+#TextArea169 {position:absolute;left:20px;top:580px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline449 {position:absolute;left:18px;top:553px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#Headline450 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
+#Headline451 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
+#Headline451:hover {color:#7CFC00}
+#PushButton175 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton175:hover {color:red}
+#Headline452 {position:absolute;left:315px;top:85px;width:79px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
+#TextArea170 {position:absolute;left:19px;top:667px;width:381px;height:57px;margin:0;opacity:0.5}
+#Headline453 {position:absolute;left:17px;top:640px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
+#xxxxxxxxxxxxxxxxxx {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
 #ADHDHome {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E;border-color:white}
 #Headline12 {position:absolute;left:10px;top:376px;width:192px;height:54px;margin:0;color:#00FFFF;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
 #Headline12:hover {color:red}
@@ -82,39 +287,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline186:hover {color:red}
 #Headline321 {position:absolute;left:22px;top:105px;width:181px;height:24px;margin:0;color:white;font-size:12pt;font-style:italic}
 #Headline321:hover {color:red}
-#PhHome {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E;border-color:white}
-#Headline300 {position:absolute;left:10px;top:376px;width:192px;height:54px;margin:0;color:#00FFFF;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline300:hover {color:red}
-#Headline301 {position:absolute;left:211px;top:376px;width:192px;height:54px;margin:0;color:#FEFE33;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline301:hover {color:red}
-#Headline302 {position:absolute;left:210px;top:247px;width:192px;height:54px;margin:0;color:#00FF00;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline302:hover {color:red}
-#Headline304 {position:absolute;left:113px;top:181px;width:192px;height:54px;margin:0;color:#FF0000;font-size:12pt;font-style:italic;font-weight:600;line-height:80%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline304:hover {color:red}
-#Headline305 {position:absolute;left:10px;top:438px;width:192px;height:54px;margin:0;color:#FB9902;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline305:hover {color:red}
-#Headline306 {position:absolute;left:211px;top:438px;width:192px;height:54px;margin:0;color:#F358FF;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline306:hover {color:red}
-#Ellipse9 {position:absolute;left:28px;top:38px;width:124px;height:48px;margin:0;fill:#87CEFA;opacity:1;stroke-width:1px}
-#Ellipse10 {position:absolute;left:32px;top:43px;width:115px;height:38px;margin:0;fill:#707070;opacity:1;stroke-width:1px}
-#Headline307 {position:absolute;left:59px;top:51px;width:64px;height:24px;margin:0;color:silver;font-size:15pt;text-align:center;text-shadow:2px 2px 5px black}
-#Headline307:hover {color:green}
-#Headline308 {position:absolute;left:365px;top:64px;width:38px;height:39px;margin:0;color:#FF0000;font-size:32pt;font-style:italic;font-weight:800;text-shadow:0px 0px 2px silver}
-#Headline308:hover {text-shadow:2px 2px 5px white}
-#PushButton74 {position:absolute;left:378px;top:8px;width:26px;height:16px;margin:0;opacity:0.37}
-#Headline309 {position:absolute;left:112px;top:506px;width:192px;height:54px;margin:0;color:#E0E0E0;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline309:hover {color:red}
-#Headline310 {position:absolute;left:10px;top:246px;width:192px;height:54px;margin:0;color:#F0E68C;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline310:hover {color:red}
-#Headline311 {position:absolute;left:10px;top:314px;width:192px;height:54px;margin:0;color:#D0EA2B;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline311:hover {color:red}
-#Headline312 {position:absolute;left:211px;top:314px;width:192px;height:54px;margin:0;color:#F0FFF0;font-size:12pt;font-style:italic;font-weight:600;line-height:90%;text-align:center;text-shadow:0px 0px 5px red;border-bottom:1px solid silver;border-color:#E0E0E0;border-left:1px solid silver;border-right:1px solid silver;border-top:1px solid silver}
-#Headline312:hover {color:red}
-#Headline313 {position:absolute;left:15px;top:567px;width:393px;height:156px;margin:0;color:#FFFACD;font-size:9pt}
-#Headline314 {position:absolute;left:221px;top:77px;width:137px;height:34px;margin:0;color:#FFFF00;font-size:16pt}
-#PushButton75 {position:absolute;left:351px;top:30px;width:55px;height:31px;margin:0;font-size:9pt;opacity:0.4}
-#Headline318 {position:absolute;left:221px;top:77px;width:137px;height:34px;margin:0;color:#FFFF00;font-size:16pt}
-#Headline319 {position:absolute;left:34px;top:145px;width:350px;height:34px;margin:0;color:#00FF00;font-size:19pt;text-align:center}
 #HEADERS {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #TextInput9 {position:absolute;left:17px;top:55px;width:230px;height:27px;margin:0;color:#383838;font-size:12pt;font-weight:500}
 #Headline13 {position:absolute;left:17px;top:34px;width:76px;height:21px;margin:0;color:white;font-size:13pt;font-weight:800}
@@ -468,24 +640,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton71:hover {color:red}
 #Headline190 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
 #xxxpxxxxxxxxxxxxxph {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
-#Ph1Main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
-#Ellipse7 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
-#Ellipse8 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
-#TextArea91 {position:absolute;left:18px;top:146px;width:381px;height:179px;margin:0;opacity:0.5}
-#Headline247 {position:absolute;left:18px;top:119px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
-#Headline248 {position:absolute;left:19px;top:333px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
-#TextArea92 {position:absolute;left:20px;top:362px;width:381px;height:235px;margin:0;opacity:0.5}
-#TextArea93 {position:absolute;left:22px;top:633px;width:381px;height:57px;margin:0;opacity:0.5}
-#Headline249 {position:absolute;left:20px;top:606px;width:380px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
-#Headline297 {position:absolute;left:6px;top:5px;width:124px;height:27px;margin:0;color:red;font-size:12pt;font-weight:600}
-#Headline298 {position:absolute;left:9px;top:56px;width:237px;height:30px;margin:0;color:Silver;font-size:16pt;font-style:italic;font-weight:600;text-align:center;text-shadow:2px 2px 5px blue}
-#Headline298:hover {color:#7CFC00}
-#PushButton72 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt}
-#PushButton72:hover {color:red}
-#PushButton73 {position:absolute;left:308px;top:38px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt}
-#PushButton73:hover {color:red}
-#Headline299 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
-#xxxxxxxxxxxxxxxxxpph {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
 #Prayer1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #Ellipse11 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
 #Ellipse12 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
