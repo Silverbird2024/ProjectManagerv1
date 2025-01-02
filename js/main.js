@@ -52,7 +52,7 @@ $App.h16 = localStorage.getItem("h16");
 $App.h17 = localStorage.getItem("h17");
 $App.h18 = localStorage.getItem("h18");
 $App.Ph1due = localStorage.getItem("Ph1due");
-$App.Ph2due = localStorage.getItem("Ph2due");
+$App.Ph2due = localStorage.getItem("ph2due");
 $App.Ph3due = localStorage.getItem("Ph3due");
 $App.Ph4due = localStorage.getItem("Ph4due");
 $App.Ph5due = localStorage.getItem("Ph5due");
@@ -1086,7 +1086,7 @@ $App.NAB.PageID = "Ph2Main";
 $scope.TextArea91_change = function() {localStorage.setItem("ph2main",$App.ph2main);};
 $scope.TextArea92_change = function() {localStorage.setItem("ph2mainCR",$App.ph2mainCR);};
 $scope.TextArea93_change = function() {localStorage.setItem("ph2mainHlight1",$App.ph2mainHlight1);};
-$scope.TextArea134_change = function() {localStorage.setItem("Ph2due",$App.Ph2due);};
+$scope.TextArea134_change = function() {localStorage.setItem("ph2due",$App.Ph2due);};
 $scope.PushButton72_click = function() {$scope.GotoPage( "PhHome" );};
 });
 NeoApp.controller("Ph3Main_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
