@@ -847,7 +847,9 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton71:hover {color:red}
 #Headline190 {position:absolute;left:328px;top:85px;width:66px;height:47px;margin:0;color:red;font-size:32pt;font-weight:600}
 #xxxpxxxxxxxxxxxxxph {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
-#Prayer1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Prayer {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#PushButton209 {position:absolute;left:18px;top:685px;width:71px;height:31px;margin:0;}
+#PushButton208 {position:absolute;left:18px;top:686px;width:71px;height:31px;margin:0;}
 #Ellipse11 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
 #Ellipse12 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
 #TextArea94 {position:absolute;left:18px;top:146px;width:381px;height:533px;margin:0;color:#707070;font-size:14pt;font-weight:600;opacity:0.5}
@@ -860,7 +862,8 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton80 {position:absolute;left:308px;top:38px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt}
 #PushButton80:hover {color:red}
 #Headline544 {position:absolute;left:308px;top:75px;width:100px;height:36px;margin:0;color:white;font-size:8pt;font-style:italic;text-align:center}
-#PushButton207 {position:absolute;left:260px;top:690px;width:138px;height:31px;margin:0;}
+#PushButton207 {position:absolute;left:260px;top:686px;width:138px;height:31px;margin:0;color:green;font-weight:800}
+#PushButton210 {position:absolute;left:217px;top:686px;width:39px;height:31px;margin:0;color:red;font-size:12pt;font-weight:800}
 #xxxxxxxxxxxxprayxxxx {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
 #Rep1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #Ellipse13 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
