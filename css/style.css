@@ -48,6 +48,8 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton90:hover {color:yellow}
 #PushButton171 {position:absolute;left:176px;top:6px;width:33px;height:33px;margin:0;opacity:0.35}
 #PushButton171:hover {color:yellow}
+#Headline552 {position:absolute;left:301px;top:6px;width:47px;height:54px;margin:0;color:#0000FF;font-size:36pt;font-style:italic;font-weight:800;text-shadow:0px 0px 2px silver}
+#Headline552:hover {text-shadow:2px 2px 5px white}
 #VesrionHistory {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E;border-color:white}
 #Ellipse114 {position:absolute;left:28px;top:38px;width:124px;height:48px;margin:0;fill:#87CEFA;opacity:1;stroke-width:1px}
 #Ellipse115 {position:absolute;left:32px;top:43px;width:115px;height:38px;margin:0;fill:#707070;opacity:1;stroke-width:1px}
@@ -60,6 +62,27 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton212 {position:absolute;left:351px;top:30px;width:55px;height:31px;margin:0;font-size:9pt;opacity:0.4}
 #Headline558 {position:absolute;left:21px;top:120px;width:198px;height:34px;margin:0;color:#FFFF00;font-size:16pt}
 #TextArea207 {position:absolute;left:19px;top:155px;width:381px;height:527px;margin:0;opacity:0.5}
+#Betanew1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Headline555 {position:absolute;left:17px;top:34px;width:122px;height:45px;margin:0;color:white;font-size:33pt;font-weight:600;text-align:center}
+#TextArea211 {position:absolute;left:25px;top:202px;width:376px;height:495px;margin:0;opacity:0.5}
+#PushButton213 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton213:hover {color:red}
+#TextArea208 {position:absolute;left:25px;top:88px;width:376px;height:107px;margin:0;font-weight:800;opacity:0.5}
+#Pager25 {position:absolute;left:269px;top:44px;width:138px;height:37px;margin:0;}
+#Betanew2 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Headline327 {position:absolute;left:17px;top:34px;width:152px;height:45px;margin:0;color:white;font-size:33pt;font-weight:600;text-align:center}
+#TextArea209 {position:absolute;left:25px;top:202px;width:376px;height:495px;margin:0;opacity:0.5}
+#PushButton214 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton214:hover {color:red}
+#TextArea210 {position:absolute;left:25px;top:88px;width:376px;height:107px;margin:0;font-weight:800;opacity:0.5}
+#Pager24 {position:absolute;left:269px;top:44px;width:138px;height:37px;margin:0;}
+#Betanew3 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
+#Headline545 {position:absolute;left:17px;top:34px;width:151px;height:45px;margin:0;color:white;font-size:33pt;font-weight:600;text-align:center}
+#TextArea212 {position:absolute;left:25px;top:202px;width:376px;height:495px;margin:0;opacity:0.5}
+#PushButton215 {position:absolute;left:308px;top:2px;width:99px;height:34px;margin:0;color:#707070;font-family:Arial,Helvetica,sans-serif;font-size:10pt;opacity:0.54}
+#PushButton215:hover {color:red}
+#TextArea213 {position:absolute;left:25px;top:88px;width:376px;height:107px;margin:0;font-weight:800;opacity:0.5}
+#Pager23 {position:absolute;left:269px;top:44px;width:138px;height:37px;margin:0;}
 #xxxxxxxxxxxxxxxxxpph {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
 #PushButton180 {position:absolute;left:98px;top:703px;width:47px;height:24px;margin:0;color:#A52A2A;font-size:7pt}
 #PushButton181 {position:absolute;left:38px;top:703px;width:47px;height:24px;margin:0;color:#A52A2A;font-size:7pt}
@@ -822,7 +845,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton206:hover {color:red}
 #Headline543 {position:absolute;left:15px;top:255px;width:202px;height:30px;margin:0;color:white;font-size:18pt;font-style:italic}
 #Pager22 {position:absolute;left:307px;top:47px;width:99px;height:34px;margin:0;}
-#xxxxxxxxxxxxxxxxxxq {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFF}
 #AD1main {position:relative;width:100%;height:100%;overflow:auto;;background-color:#002F3E}
 #Ellipse1 {position:absolute;left:2px;top:30px;width:264px;height:76px;margin:0;fill:#FF0000;stroke-width:1px}
 #Ellipse2 {position:absolute;left:9px;top:38px;width:249px;height:62px;margin:0;fill:#707070;stroke-width:1px}
