@@ -1151,6 +1151,7 @@ $scope.PushButton213_click = function() {$scope.GotoPage( "PhHome" );};
 $scope.TextArea208_change = function() {localStorage.setItem("b1h",$App.b1h);};
 $scope.Pager25_prevclick = function() {$scope.GotoPrevPage();};
 $scope.Pager25_nextclick = function() {$scope.GotoNextPage();};
+$scope.PushButton219_click = function() {$scope.VarToFile($App.var1,"var1.txt");};
 });
 NeoApp.controller("Betanew2_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 4;
