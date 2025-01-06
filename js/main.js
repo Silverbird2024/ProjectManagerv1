@@ -191,7 +191,7 @@ $App.h4due = localStorage.getItem("h4due");
 $App.h5due = localStorage.getItem("h5due");
 $App.h6due = localStorage.getItem("h6due");
 $App.h7due = localStorage.getItem("h7due");
-$App.h9due = localStorage.getItem("h8due");
+$App.h8due = localStorage.getItem("h8due");
 $App.h9due = localStorage.getItem("h9due");
 $App.h10due = localStorage.getItem("h10due");
 $App.h1next = localStorage.getItem("h1next");
@@ -2140,7 +2140,7 @@ NeoApp.controller("H8M2_Ctrl", function($scope,$rootScope,$route,$timeout,$filte
 $App.NAB.PageNumber = 94;
 $App.NAB.PageID = "H8M2";
 $scope.TextArea79_change = function() {localStorage.setItem("h8next",$App.h8next);};
-$scope.TextArea80_change = function() {localStorage.setItem("h8due",$App.H8DUE);};
+$scope.TextArea80_change = function() {localStorage.setItem("h8due",$App.h8due);};
 $scope.PushButton65_click = function() {$scope.GotoPage( "Home" );};
 $scope.PushButton66_click = function() {$scope.GotoPage( "H8M3" );};
 });
